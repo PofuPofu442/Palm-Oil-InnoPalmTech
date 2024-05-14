@@ -1,9 +1,6 @@
-List the software functional requirements.
-Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements.
-Explain the architecture of your software
-Justify any technological stack that you use
+# List the software functional requirements. Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements. Explain the architecture of your software. Justify any technological stack that you use
 
-**Functional Requirement**
+## Functional Requirement
 1.	**User Authentication and Authorization**:
 •	Users should be able to log in securely with unique credentials.
 •	Different user roles (admin, manager, field worker) should have different levels of access to system functionalities.
@@ -40,7 +37,7 @@ Justify any technological stack that you use
 •	Real-time data collection from soil moisture sensors, weather stations, and other IoT devices.
 •	Automated control of irrigation and other field operations based on sensor data.
 
-**Non-Functional Requirements**
+## Non-Functional Requirements
 1.	**Scalability**:
 •	The system should be able to handle increased data volume and user traffic as the plantation expands.
 •	It should scale horizontally by adding more servers or using cloud-based solutions.
