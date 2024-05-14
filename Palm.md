@@ -1,2 +1,4 @@
-!test
-PRINT
+List the software functional requirements.
+Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements.
+Explain the architecture of your software
+Justify any technological stack that you use
