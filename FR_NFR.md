@@ -1,4 +1,4 @@
-## List the software functional requirements. Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements. Explain the architecture of your software. Justify any technological stack that you use
+## List the software functional requirements. Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements. 
 
 ### Functional Requirement
 1.	**User Authentication and Authorization**:
@@ -49,3 +49,6 @@
 3.	**Performance**:
 *	The system should be responsive, with low latency for user interactions.
 *	Optimize database queries and implement caching mechanisms to improve performance.
+
+##Explain the architecture of your software. Justify any technological stack that you use
+
