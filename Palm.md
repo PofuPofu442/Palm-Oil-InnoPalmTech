@@ -2,6 +2,8 @@ List the software functional requirements.
 Your software must have at least 9 (NINE) functional requirements and 3 (THREE) non-functional requirements.
 Explain the architecture of your software
 Justify any technological stack that you use
+
+Functional Requirement
 1.	User Authentication and Authorization:
 •	Users should be able to log in securely with unique credentials.
 •	Different user roles (admin, manager, field worker) should have different levels of access to system functionalities.
