@@ -1,1 +1,1 @@
-![GanttChart](https://drive.google.com/file/d/1ZvWWvbhTEMcNcBADDFlmrC5R95lRvZlW/view)
+![GanttChart](image.png)
