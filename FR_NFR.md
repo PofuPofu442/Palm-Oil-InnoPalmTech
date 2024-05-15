@@ -49,8 +49,3 @@
 3.	**Performance**:
 *	The system should be responsive, with low latency for user interactions.
 *	Optimize database queries and implement caching mechanisms to improve performance.
-
-## Explain the architecture of your software. Justify any technological stack that you use.
-
-
-
