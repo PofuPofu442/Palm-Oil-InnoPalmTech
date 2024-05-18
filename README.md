@@ -4,7 +4,7 @@ Welcome to the repository for the POST - Palm Oil System Technology project. Thi
 
 ## About the Project
 
-POST is a software engineering project aimed at creating a robust and user-friendly platform to assist in the management of palm oil plantation records and business operations. Inspired by the operational strategies of FELDA, one of the world's leading palm oil producers, our system addresses the complexities of modern plantation management through a suite of integrated modules.
+This is project for software engineering subject. POST is a software engineering project aimed at creating a robust and user-friendly platform to assist in the management of palm oil plantation records and business operations. Inspired by the operational strategies of FELDA, one of the world's leading palm oil producers, our system addresses the complexities of modern plantation management through a suite of integrated modules. This project is part of our coursework for the Software Engineering subject.
 
 ## Acknowledgments
 
